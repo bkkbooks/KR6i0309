@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0309/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金光明最勝王經疏
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T39/T39n1788.xml
+    old_id: T39n1788
+hash: sha256:b079466e31e5b040e1551ae1a6c076f778ba04fe889ca095c2a18475024ffaf6

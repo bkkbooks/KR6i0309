@@ -1,0 +1,462 @@
+canonical_identifier: bkk:krp/KR6i0309/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0309/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金光明最勝王經疏
+  identifiers:
+    krp: KR6i0309
+    cbeta: T39n1788
+    cbeta_old_id: T39n1788
+    authorityid: CA0001797
+    json_key: T1788
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T39/T39n1788.xml
+    old_id: T39n1788
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0309_000-T.yaml, hash: 'sha256:b079466e31e5b040e1551ae1a6c076f778ba04fe889ca095c2a18475024ffaf6'}
+  - {seq: 1, filename: KR6i0309_001-T.yaml, hash: 'sha256:302db80b6e2eaf0071243476ef5e92abf94ae4218277dcac7a9f6060dace2349'}
+  - {seq: 3, filename: KR6i0309_003-T.yaml, hash: 'sha256:29ffa2bf8a0f12d1f34ac9a812eb92ff0679264253b13d7938b36a526a68432c'}
+  - {seq: 4, filename: KR6i0309_004-T.yaml, hash: 'sha256:d2f37a7deb93b8cc93cd91fd4bb71fb0f1437b20609c39ad68731afc85f5cc13'}
+  - {seq: 5, filename: KR6i0309_005-T.yaml, hash: 'sha256:8ba0425d86cf374565b5a2bec465aca135eb323b55bc49c25744a73d73d10b1a'}
+  - {seq: 6, filename: KR6i0309_006-T.yaml, hash: 'sha256:d301b0f050711337b5edd7ce784dde7e7b032459982707c5029bc0c771489170'}
+  - {seq: 7, filename: KR6i0309_007-T.yaml, hash: 'sha256:ab9ba5802df32cc3140516e801e5050904d2c8c402faa8b3134b97c5d37a7ea6'}
+  - {seq: 8, filename: KR6i0309_008-T.yaml, hash: 'sha256:95b7b54a018389ca4a882ebb86fc1f105c39478077019a36f0b4ff9cbe0a1595'}
+  - {seq: 9, filename: KR6i0309_009-T.yaml, hash: 'sha256:7c9960fb468171de70624de91d07b0f298a2e7cf1b69ec85dde2aabff2c1e7d7'}
+  - {seq: 10, filename: KR6i0309_010-T.yaml, hash: 'sha256:a63c99b2ee37c2b64cf66891d852b2092f9ced99e8091fa77579770f3f113a9f'}
+  - {seq: 6, filename: KR6i0309_006-T.yaml, hash: 'sha256:a42ca704bdd53afbe50e1291adba9c69bece602b81bd2e584532b12d38ed5a54'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0309_000-T.markers.yaml, hash: 'sha256:ca9ef5e8d51f7bc6b09101dd48b20315f748a75666e74bfb751800ea7af7a998'}
+  - {seq: 1, role: markers, filename: assets/KR6i0309_001-T.markers.yaml, hash: 'sha256:6857fc0bbe41145032638215e1e78aecfef079c4f94978e43a223ae2c7b51442'}
+  - {seq: 3, role: markers, filename: assets/KR6i0309_003-T.markers.yaml, hash: 'sha256:1d2e32b81e5f6f14ada7f16779889cd9e3623f3a6cc1881436828e536483dc7f'}
+  - {seq: 4, role: markers, filename: assets/KR6i0309_004-T.markers.yaml, hash: 'sha256:cccd3cf64b91323fc49bc57dd5a9ccd3cd9ae6f964ade35c45ca0ca9fe4e4468'}
+  - {seq: 5, role: markers, filename: assets/KR6i0309_005-T.markers.yaml, hash: 'sha256:1c35e53e45d84fcd5fe5fcd2a8c1680d8ab8087f8200524236dc35c7f3513bcd'}
+  - {seq: 6, role: markers, filename: assets/KR6i0309_006-T.markers.yaml, hash: 'sha256:b7de5ae1887fd55864c967c4deb898e583b5bed0d2a9b1cb8f212790ff17f31d'}
+  - {seq: 7, role: markers, filename: assets/KR6i0309_007-T.markers.yaml, hash: 'sha256:d0a7e65f45a89ecde4e28d21b73621d474fbb9203990cd18bc641aa4bf45024b'}
+  - {seq: 8, role: markers, filename: assets/KR6i0309_008-T.markers.yaml, hash: 'sha256:8c14737d46581e5d1227570e9075b3330e5fb3b536bcdbb943600bd3102232d2'}
+  - {seq: 9, role: markers, filename: assets/KR6i0309_009-T.markers.yaml, hash: 'sha256:f634bb720e5d78d7dfc320d6312782772a092e0f5b471f3d76bba12101abec4a'}
+  - {seq: 10, role: markers, filename: assets/KR6i0309_010-T.markers.yaml, hash: 'sha256:9a422ac08ba7652e87250e2a5db35ab48bd279929d4c6df7afa619133aae4637'}
+  - {seq: 6, role: markers, filename: assets/KR6i0309_006-T.markers.yaml, hash: 'sha256:b7de5ae1887fd55864c967c4deb898e583b5bed0d2a9b1cb8f212790ff17f31d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0309_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 24542
+  label: 金光明最勝王經疏卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0309_T_001-mulu-1
+    span:
+    - body
+    - 12790
+    - 12790
+  label: 1 序品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0309_T_002a-juan-start
+    span:
+    - body
+    - 0
+    - 22497
+  label: 金光明最勝王經疏卷第二本
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0309_T_002a-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 2 如來壽量品(二本)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0309_T_002b-juan-start
+    span:
+    - body
+    - 0
+    - 15216
+  label: 金光明最勝王經疏卷第二〔末〕
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0309_T_002b-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 3 分別三身品(二末-三本)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0309_T_003a-juan-start
+    span:
+    - body
+    - 0
+    - 20816
+  label: '金光明最勝王經疏卷第三本
+
+    三身品末'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0309_T_003b-juan-start
+    span:
+    - body
+    - 0
+    - 25058
+  label: '金光明最勝王經疏卷第三末
+
+    盡滅業障品'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0309_T_003b-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 4 夢見懺悔品(三末)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0309_T_003b-mulu-2
+    span:
+    - body
+    - 9538
+    - 9538
+  label: 5 滅業障品(三末)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0309_T_004a-juan-start
+    span:
+    - body
+    - 0
+    - 27422
+  label: '金光明最勝王經疏卷第四本
+
+    釋依空滿願品竟'
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0309_T_004a-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 6 淨地陀羅尼品(四本)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0309_T_004a-mulu-2
+    span:
+    - body
+    - 24418
+    - 24418
+  label: 7 蓮華喻讚品(四本)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0309_T_004b-juan-start
+    span:
+    - body
+    - 0
+    - 20871
+  label: 金光明最勝王經疏卷第四末
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0309_T_004b-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 8 金勝陀羅尼品(四末)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0309_T_004b-mulu-2
+    span:
+    - body
+    - 1570
+    - 1570
+  label: 9 重顯空性品(四末)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0309_T_004b-mulu-3
+    span:
+    - body
+    - 7113
+    - 7113
+  label: 10 依空滿願品(四末)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0309_T_005a-juan-start
+    span:
+    - body
+    - 0
+    - 27951
+  label: 金光明最勝王經疏卷第五本王法正論品竟
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0309_T_005a-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 11 四天王觀察人天品(四末)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0309_T_005a-mulu-2
+    span:
+    - body
+    - 2004
+    - 2004
+  label: 12 四天王護國品(五本)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0309_T_005a-mulu-3
+    span:
+    - body
+    - 14494
+    - 14494
+  label: 13 無染著陀羅尼品(五本)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0309_T_005a-mulu-4
+    span:
+    - body
+    - 18685
+    - 18685
+  label: 14 如意寶珠品(五本)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0309_T_005a-mulu-5
+    span:
+    - body
+    - 21097
+    - 21097
+  label: 15 大辯才天女品(五本)
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0309_T_005b-juan-start
+    span:
+    - body
+    - 0
+    - 16752
+  label: 金光明最勝王經卷第八疏卷第五末
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0309_T_005b-mulu-1
+    span:
+    - body
+    - 2350
+    - 2350
+  label: 16 大吉祥天女品(五末)
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0309_T_005b-mulu-2
+    span:
+    - body
+    - 3900
+    - 3900
+  label: 17 大吉祥天女增長財物品(五末)
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0309_T_005b-mulu-3
+    span:
+    - body
+    - 5921
+    - 5921
+  label: 18 堅牢地神品(五末)
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0309_T_005b-mulu-4
+    span:
+    - body
+    - 8445
+    - 8445
+  label: 19 僧慎爾耶藥叉大將品(五末)
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0309_T_005b-mulu-5
+    span:
+    - body
+    - 10620
+    - 10620
+  label: 20 王法正論品(五末)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0309_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 34185
+  label: 金光明最勝王經疏卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0309_T_006-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 21 善生王品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0309_T_006-mulu-2
+    span:
+    - body
+    - 1973
+    - 1973
+  label: 22 諸天藥叉護持品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0309_T_006-mulu-3
+    span:
+    - body
+    - 5409
+    - 5409
+  label: 23 授記品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0309_T_006-mulu-4
+    span:
+    - body
+    - 8939
+    - 8939
+  label: 24 除病品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0309_T_006-mulu-5
+    span:
+    - body
+    - 11758
+    - 11758
+  label: 25 長者子流水品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0309_T_006-mulu-6
+    span:
+    - body
+    - 18743
+    - 18743
+  label: 26 捨身品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0309_T_006-mulu-7
+    span:
+    - body
+    - 27190
+    - 27190
+  label: 27 十方菩薩讚歎品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0309_T_006-mulu-8
+    span:
+    - body
+    - 28987
+    - 28987
+  label: 28 妙幢菩薩讚歎品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0309_T_006-mulu-9
+    span:
+    - body
+    - 29664
+    - 29664
+  label: 29 菩提樹神讚歎品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0309_T_006-mulu-10
+    span:
+    - body
+    - 30946
+    - 30946
+  label: 30 大辯才天女讚歎品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0309_T_006-mulu-11
+    span:
+    - body
+    - 32024
+    - 32024
+  label: 31 付囑品(六)
+  type: mulu
+  level: 1
+hash: sha256:236d1086065018251d664ccb6f757b8ce5f1d7bd7963e5a13fd645ccedad2ed2
